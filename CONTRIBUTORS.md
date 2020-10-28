@@ -2428,12 +2428,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
-#### Name: [Ahsan Khan](https://github.com/itepifanio)
-- Place: India.
-- Bio: MCA
-- Github: [Ahsan Khan](https://github.com/ahsan3025)
-
-#### Name: [Ahsan Khan](https://github.com/itepifanio)
-- Place: India.
+#### Name: [Ahsan Khan](https://github.com/ahsan3025)
+- Place: India, Nashik
 - Bio: MCA
 - Github: [Ahsan Khan](https://github.com/ahsan3025)
